@@ -1,5 +1,5 @@
 ## Before you start the experiment  ![Importance Rating 2](images/rating5.png)
-Although lexical decision tasks are typically low-risk and low-cost experiments, one must know if they have the available resources. You need to consider several practical aspects before starting data collection, which are mostly the same as for other low-risk psychological experiments:
+Although lexical decision tasks are typically low-risk and low-cost experiments, you first must ensure that you have the necessary resources. You need to consider several practical aspects before starting data collection, which are mostly the same as for other low-risk psychological experiments:
 
 - Lab-based study: quiet lab room with a computer. 
 - Online study: web server or hosting service funding. 
@@ -12,7 +12,7 @@ Although lexical decision tasks are typically low-risk and low-cost experiments,
 The first step is to program the experiment: We want the experimental software to show each trial and to record the participant’s response to the trial and the reaction time. A lexical decision task can be programmed with medium-low programming skills. Templates are available for beginners on many of the existing experimental platforms (see examples below).
 
 ### Possible platforms to run the experiment  ![Importance Rating 2](images/rating4.png)
-Here is a nonexhaustive list of programs used by the TRUST group in recent years. Typically, all solutions have a forum for customer support and examples available. Find more information at the webpages linked below. 
+Here is a nonexhaustive list of programs used by the TRUST group in recent years. Typically, all solutions have a forum for customer support and examples available. Find more information on the webpages linked below. 
 
 | Program                                                                       | Cost     | Programming skill | Online hosting | 
 |-------------------------------------------------------------------------------|----------|-------------------|----------------|
@@ -54,18 +54,18 @@ A trial generally has the following structure:
     - The letter strings should be presented in a different random order for each participant.
 
 - Participant response 
-    - Typically, participants are instructed to respond by pressing on a keyboard, e.g., Left key: “d”, right key: “k”
+    - Typically, participants are instructed to respond by pressing keys on a keyboard, typically with their left and right index finger, e.g., Left key: “d”, right key: “k”
     - Alternatively, one can implement a go/no-go task with only button presses for words or non-words. 
-    - Suppose the aim is to directly compare words and non-words (i.e., the so-called lexicality effect). In that case, it is recommended to counterbalance the response key between participants, such that half of them will press the left key for words and the right key for pseudowords, and the other half the other way around.
-    - If the number of words and non-words is counterbalanced, it is typical to instruct participants to press the Right key for words and the Left key for non-words.
+    - Suppose the aim is to directly compare words and non-words (i.e., the so-called lexicality effect). In that case, it is recommended to counterbalance the response keys between participants, such that half of them will press the left key for words and the right key for non-words, and the other half the other way around.
+    - If the number of words and non-words is counterbalanced, it is typical to instruct participants to press the right key for words and the left key for non-words.
     - Alternatives to keyboard responses exist, such as keypads, touchscreens, or mouse clicks. For more information see [Pronk et al., 2020](https://doi.org/10.3758/s13428-019-01321-2), [Bridges et al., 2020](https://doi.org/10.7717/peerj.9414) or [Rodd, 2024](https://doi.org/10.1016/j.jml.2023.104472). 
     - Inter-stimulus interval: A break before the next stimulus will reduce interference effects. We recommend a blank screen inter-trial interval of 500 ms between the response and the next fixation cross.
 
-After 100 trials, we recommend a short, self-paced break (“Press the space bar when you’re ready to continue”). 
+After every 100 trials, we recommend a short, self-paced break (“Press the space bar when you’re ready to continue”). 
 
 
 ## Participants  ![Importance Rating 2](images/rating5.png)
-The number of participants should be determined by a power calculation based on the effect size of interest (e.g., see [Brysbaert & Stevens, 2018](https://doi.org/10.5334/joc.10)). Note there are differences in power considerations when investigating individual differences (e.g., see [Hedge et al. (2018)](https://doi.org/10.3758/s13428-017-0935-1)). Also, the reliability of the measure of interest could be relevant for considerations regarding the number of participants.
+The number of participants should be determined by a power calculation based on the effect size of interest (e.g., see [Brysbaert & Stevens, 2018](https://doi.org/10.5334/joc.10)). Note that there are differences in power considerations when investigating individual differences (e.g., see [Hedge et al. (2018)](https://doi.org/10.3758/s13428-017-0935-1)). Also, the reliability of the measure of interest could be relevant for considerations regarding the number of participants.
 
 There are no fixed rules about inclusion criteria. If the aim is to minimise inter-individual differences and examine differences on the word (or non-word) level, criteria can maximise similarity between participants (e.g., age, level of education). Possible recruitment strategies could be a convenience sample (e.g., undergraduate students), online platforms, or snowball sampling.
 
@@ -81,7 +81,7 @@ We recommend asking for:
 ## Design options
 
 ### Controlled experiment  ![Importance Rating 2](images/rating4.png)
-With a small number of available participants and strong theoretical motivation, a controlled experiment is feasible. Here, participants respond to several items selected to vary on a specific characteristic, while not co-varying on other characteristics that may also affect reading processes (see relevant the section on How to determine the effect of a specific variable based on lexical decision data in [“Materials”](https://trust-network-guidelines.readthedocs.io/en/latest/materials/)). The design of a lexical decision task relies on the trade-off between available time and data quality. On the one hand, as the length of the experiment increases, the likelihood of participant drop-out increases. On the other hand, a short study with only a couple of items is less likely to provide high data quality. Considering time, assuming that a typical reading adult can finish a 30-60 minute task is reasonable. Such a task length may be suitable for 500-1,000 decisions (e.g., 250 words and 250 non-words), including pre-stimulus and post-response delays and pauses between blocks. 
+With a small number of available participants and strong theoretical motivation, a controlled experiment is feasible. Here, participants respond to several items selected to vary on a specific characteristic, while not co-varying on other characteristics that may also affect reading processes (see relevant the section on How to determine the effect of a specific variable based on lexical decision data in [“Materials”](https://trust-network-guidelines.readthedocs.io/en/latest/materials/)). The design of a lexical decision task relies on the trade-off between available time and data quality. On the one hand, as the length of the experiment increases, the likelihood of participant drop-out increases. On the other hand, a short study with only a couple of items is less likely to provide high data quality. Regarding time, assuming that a typical reading adult can finish a 30-60 minute task is reasonable. Such a task length may be suitable for 500-1,000 decisions (e.g., 250 words and 250 non-words), including pre-stimulus and post-response delays and pauses between blocks. 
 
 ### Lexicon Projects - Semi-controlled regression designs  ![Importance Rating 2](images/rating4.png)
 Lexicon projects are, in principle, infrastructure projects that allow the exploration of new phenomena in extensive datasets with a broad stimulus and participant base. This format is particularly suitable when one wants to provide resources relevant to investigating reading and psycholinguistic processing, for example, in the context of a language or across many languages. Find a list here: 
