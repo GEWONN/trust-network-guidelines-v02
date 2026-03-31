@@ -1,9 +1,9 @@
-Before addressing the research question of interest, pre-processing may be needed to exclude responses that may not reflect the cognitive processes and thus decrease the signal-to-noise ratio. 
+Before addressing the research question of interest, pre-processing may be needed to exclude responses that may not reflect cognitive processes and thus decrease the signal-to-noise ratio. 
 
 ## Preprocessing  ![Importance Rating 2](images/rating5.png)
 We recommend keeping the pre-processing to a minimum, to avoid systematic bias in excluding potentially meaningful datapoints and maximise the number of observations. As there are many different rules of thumb, we suggest either minimising the amount of pre-processing (e.g., when the amount of data is limited) or conducting a robustness analysis, where the results are verified with a set of different pre-processing methods (e.g., when there is a large amount of data available; see [Short et al. 2025](https://doi.org/10.31222/osf.io/4yzeh_v1)). 
 
-Below are some recommended pre-processing options. Please note that they should be specified in a pre-registration.
+Below are some recommended pre-processing options. Please note that they should ideally be specified in a pre-registration.
 
 - Excluding long responses
     - When a time-out criterion was used (e.g., the word disappeared after 5000 ms and the response times were therefore set to 5000 ms), it needs to be set to *Not Available* (e.g., *NA* in R).
@@ -74,7 +74,7 @@ Depending on your research question and preferences, you can either assess the s
 
     - If you fit the model with the R packages lme4 to estimate effect sizes and model fits. If needed, one can use a R package like lmerTest to provide p-values for each fixed effect and interaction in the model (find alternatives [HERE](https://rdrr.io/cran/lme4/man/pvalues.html)). 
     - We recommend reporting the unstandardised model effect size estimate (slope), standard error of the estimate, and t- and p-values. 
-    - For pre-registered a priori hypotheses, a commonly used alpha threshold for statistical significance is .05, but we note that lower cutoffs may be preferable ([Benjamin et al., 2018](https://doi.org/10.1038/s41562-017-0189-z)), and that rather than a single cutoff, researchers could justify their specific choice of alpha based on the expected outcomes of their decision ([Lakens et al., 2018](https://doi.org/10.1038/s41562-018-0311-x); [Maier & Lakens, 2022](https://doi.org/10.1177/25152459221080396)). In the case of exploratory or post-hoc analyses, one should apply a correction for multiple comparisons (e.g., Bonferroni correction, [von der Malsburg & Angele, 2017](https://doi.org/10.1016/j.jml.2016.10.003); False discovery rate, familywise error correction).
+    - For pre-registered a priori hypotheses, a commonly used alpha threshold for statistical significance is .05, but we note that lower cut-offs may be preferable ([Benjamin et al., 2018](https://doi.org/10.1038/s41562-017-0189-z)), and that rather than a single cut-off, researchers could justify their specific choice of alpha based on the expected outcomes of their decision ([Lakens et al., 2018](https://doi.org/10.1038/s41562-018-0311-x); [Maier & Lakens, 2022](https://doi.org/10.1177/25152459221080396)). In the case of exploratory or post-hoc analyses, one should apply a correction for multiple comparisons (e.g., Bonferroni correction, [von der Malsburg & Angele, 2017](https://doi.org/10.1016/j.jml.2016.10.003); False discovery rate, familywise error correction).
     - Frequentist effect size estimation: To interpret the effect size and its estimated accuracy, one can report the effect size estimate and its 95% confidence interval (see [Cumming, 2013](https://doi.org/10.1177/095679761350496)). The package nlme provides 95% confidence intervals for main effects and interactions in mixed-effect models.
 
 - Bayesian statistical tests: Instead of frequentist p-values, one can rely on Bayes Factors for inference (e.g., [Schmalz et al., 2023](https://doi.org/10.1037/met0000421)).
@@ -88,7 +88,7 @@ Depending on your research question and preferences, you can either assess the s
     - Bayesian effect size estimation: Unlike the Frequentist approach, which relies on the observed data only, Bayesian effect size estimation considers prior knowledge, which can take the form of existing data. See [Bürkner, 2017](10.18637/jss.v080.i01) for a tutorial.
 
 ### Additional possibilities for analysis  ![Importance Rating 2](images/rating4.png)
-Monte-carlo simulated experiments for a priori or post hoc measurements.
+Monte-Carlo simulated experiments for a-priori or post-hoc measurements.
 Existing large-scale datasets (i.e., lexicon projects like the [British Lexicon Project](https://doi.org/10.3758/s13428-011-0118-4)) allow subsampling experiments that enable running experiments with specific sample sizes and stimulus material to investigate effects (see [Kupermann, 2015](https://doi.org/10.1080/17470218.2014.989865), [Perry, 2024](https://doi.org/10.1371/journal.pone.0296874) for examples)
 
 Beyond measuring an effect or phenomenon, one typically needs to implement a different set of inference methods. Commonly, one would like to predict future events based on current data (i.e., the prediction approach) or explain the causal structure of a phenomenon/effect to understand reading better (see [Hofman et al. 2021](https://doi.org/10.1038/s41586-021-03659-0) for a perspective). 
@@ -100,7 +100,7 @@ Beyond measuring an effect or phenomenon, one typically needs to implement a dif
 
 - Prediction-focused learning models (e.g., Machine learning methods) can be used for many things:
 
-    - Explainations based on archetectual constraints (i.e., compare [Linke et al., 2017](https://doi.org/10.1371/journal.pone.0183876) vs. [Hannagan et al., 2014](https://doi.org/10.1371/journal.pone.0084843)) or through implementation of different training regimes ([Hannagan et al., 2022](https://doi.org/10.1073/pnas.2104779118)) or the investigation of neuro-cognitive processes related to reading ([Rajalingham et al., 2020](https://doi.org/10.1038/s41467-020-17714-3); but see model comparisons can be applied to infer over-prediction and explanation focused models [Pauli et al., 2025](https://doi.org/10.1101/2025.05.16.654419)).
+    - Explanations based on architectural constraints (i.e., compare [Linke et al., 2017](https://doi.org/10.1371/journal.pone.0183876) vs. [Hannagan et al., 2014](https://doi.org/10.1371/journal.pone.0084843)) or through implementation of different training regimes ([Hannagan et al., 2022](https://doi.org/10.1073/pnas.2104779118)) or the investigation of neuro-cognitive processes related to reading ([Rajalingham et al., 2020](https://doi.org/10.1038/s41467-020-17714-3); but see model comparisons can be applied to infer over-prediction and explanation focused models [Pauli et al., 2025](https://doi.org/10.1101/2025.05.16.654419)).
     - Investigating memory structure (e.g., [Trautwein et al., 2018](https://doi.org/10.3389/fpsyg.2018.02252) or [Gatti et al., 2023](https://doi.org/10.1037/xge0001304))
     - Diagnostics (e.g., [Schmidtke & Moro, 2020](https://doi.org/10.1002/rrq.362); [Gagl & Gregorova, 2024](https://doi.org/10.1038/s41539-024-00237-7); but see [Ziegler et al., 2020](https://doi.org/10.1177/0956797618823540) for an approach using a explaination focused model)
 
