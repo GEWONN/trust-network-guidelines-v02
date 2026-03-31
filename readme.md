@@ -7,7 +7,7 @@
 
 ## About
 
-This repository contains the living guideline document open for everyone to fork and adapt for a differen language, group, task or measurement method. 
+This repository contains the living guideline document open for everyone to fork and adapt for a different language, group, task or measurement method. 
 
 The documentation is built with [MkDocs](https://www.mkdocs.org/) using the Material theme and is automatically deployed to ReadTheDocs.
 
@@ -15,7 +15,7 @@ The documentation is built with [MkDocs](https://www.mkdocs.org/) using the Mate
 
 ## Adapting the Guidelines to a Different Language
 
-The guidelines were developed specifically for **German single-word lexical decisions** including a expert importance rating. When forking this repository for a different target language (e.g., English, French, Dutch), the following content must be reviewed and adapted throughout all pages (`docs/*.md`). Furthermore, it would be advised to collect importance ratings and feedback from reading researchers working in the field/language.
+The guidelines were developed specifically for **German single-word lexical decisions** including expert importance ratings. When forking this repository for a different target language (e.g., English, French, Dutch), the following content must be reviewed and adapted throughout all pages (`docs/*.md`). Furthermore, it would be advised to collect importance ratings and feedback from reading researchers working in the field/language.
 
 ### Repository Structure
 
@@ -36,11 +36,11 @@ trust-network-guidelines-v02/
 
 ### Materials (`materials.md`)
 
-- **Word resources** — Psycholinguistic corpora (e.g., SUBTLEX-DE, dlexDB) are specific to German. These **must** be replaced with the equivalent resources for the target language (e.g., SUBTLEX-US/UK for English, LEXIQUE for French, SUBTLEX-NL for Dutch).
+- **Word resources** — Psycholinguistic corpora (e.g., SUBTLEX-DE, dlexDB) are specific to German. These **must** be replaced with corresponding resources for the target language (e.g., SUBTLEX-US/UK for English, LEXIQUE for French, SUBTLEX-NL for Dutch).
 
 ### Analysis (`analysis.md`)
 
-- **Language-specific covariates** — control variables such as word length effects, syllable structure, or stress assignment interact differently across languages and may need to be added, removed, or reweighted in analysis pipelines.
+- **Language-specific covariates** — control variables such as word length, syllable structure, or stress assignment interact differently across languages and may need to be added, removed, or reweighted in analysis pipelines.
 
 ---
 
