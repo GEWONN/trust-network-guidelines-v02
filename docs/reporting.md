@@ -25,9 +25,9 @@ Reporting the research process transparently will allow others to reproduce the 
 
     - Participant recruitment procedure, including procedure and justification for determining sample size 
     - Participant inclusion & exclusion criteria, including justification and definition (e.g., if participants with dyslexia are excluded: Why, and how was this determined?)
-    - Number of participants, including an a priori power analysis, when hypotheses are tested, confirmatory
+    - Number of participants, including an a-priori power analysis, when hypotheses are tested, confirmatory
     - Pilot studies that were used to inform decisions, along with justifications (as appendix or supplementary materials)
-    - Experimental setup: e.g., online, Lab, field, or similar
+    - Experimental setup: e.g., online, lab, field, or similar
 
 ## Experimental procedure  ![Importance Rating 2](images/rating5.png)
 Note that the following are suggestions for what to report, rather than an exhaustive list.
@@ -50,7 +50,7 @@ Note that the following are suggestions for what to report, rather than an exhau
     - Durations of everything shown to the participants (inter-stimulus intervals, inter-trial intervals if relevant)
     - Stimulus onset asynchrony (i.e., mean, range, standard deviation, distribution type, etc.)
     - Whether participant responses terminate stimulus presentation
-    - Timeouts are used for the response
+    - Timeouts used for the response
     - Other relevant information: Have there been breaks, the randomisation method/trial order (potentially including transition probabilities), the number of trials, if stimulus and stimulus type repetitions were implemented, and if attention checks were implemented.
 
 - Instructions
