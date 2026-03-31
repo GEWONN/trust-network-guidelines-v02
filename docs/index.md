@@ -1,7 +1,7 @@
 
 # [TRUST Network](https://gewonn.github.io/trust/network/)
 
-The TRUST network aims to build a **transparent**, **transferable**, and **sustainable** foundation for psycholinguistic reading studies in German. The Network brings together more than 20 researchers in the field to develop transferable and sustainable guidelines that address critical challenges such as:
+The TRUST network aims to build a **transparent**, **transferable**, and **sustainable** foundation for psycholinguistic reading studies in German. The network brings together more than 20 researchers in the field to develop transferable and sustainable guidelines that address critical challenges such as:
 
 - methodological robustness  
 - reproducibility  
@@ -10,7 +10,7 @@ The TRUST network aims to build a **transparent**, **transferable**, and **susta
 
 The **TRUST** is funded by the **German Research Foundation (DFG)** and will run under the umbrella of [**German Word Nerd Network (GeWoNN)**](https://gewonn.github.io/).
 
-This Guideline page is the result of our first meeting, which started a consensus-based guideline generation process. We began defining the core guidelines in our first meeting. In a second step, we wrote a text document, which was then commented on by the TRUST members. Next, we included the comments and implemented this guideline page. Next we implemented a survey that included all the points form the text document. In the survey, every member had to rate the importance of each guideline issue (on a scale from 1 to 5, with 1 = low and 5 = high) and could provide additional feedback. 
+This guideline page is the result of a consensus-based guideline generation process. We began defining the core guidelines in our first network meeting in 2025. In a second step, we wrote a text document, which was then commented on by the TRUST members. Next, we included the comments and implemented this guideline page. Then, we implemented a survey that included all the points form the text document. In the survey, every member had to rate the importance of each guideline issue (on a scale from 1 to 5, with 1 = low and 5 = high) and could provide additional feedback. 
 
 The guidelines on this page now include guidelines after two rounds of feedback from the TRUST consortium, and the TRUST consortium's importance rating depicted by these bars (Median importance rated by consortium members): 
 
