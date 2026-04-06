@@ -25,7 +25,7 @@ In parallel to developing the guidelines, we implemented the German Lexicon Proj
 
 ---
 
-## TRUST Network Mission 
+## TRUST Network Mission
 
 The goal of TRUST is to **increase the quality of current reading research practices**. We aim to establish **best-practice** and **collective research guidelines** for the field, providing an optimal, transparent, and sustainable basis for across-lab investigations.
 
