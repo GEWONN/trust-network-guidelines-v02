@@ -1,5 +1,6 @@
 
-# [TRUST Network](https://gewonn.github.io/trust/network/)
+![LOGO](images/trust_logo.jpg) 
+[TRUST Network](https://gewonn.github.io/trust/network/)
 
 The TRUST network aims to build a **transparent**, **transferable**, and **sustainable** foundation for psycholinguistic reading studies in German. The network brings together more than 20 researchers in the field to develop transferable and sustainable guidelines that address critical challenges such as:
 
@@ -41,3 +42,4 @@ In the network, we bring together a group of expert researchers to compile:
 
 © 2026 The German Word Nerd Network  
 [Visit the GEWONN site](https://gewonn.github.io/)
+![Importance Rating 2](images/GewonnLogo_small.jpg)
