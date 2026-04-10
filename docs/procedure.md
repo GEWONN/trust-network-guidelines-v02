@@ -1,5 +1,5 @@
 ## Before you start the experiment  ![Importance Rating 2](images/rating5.png)
-Although lexical decision tasks are typically low-risk and low-cost experiments, you first must ensure that you have the necessary resources. You need to consider several practical aspects before starting data collection, which are mostly the same as for other low-risk psychological experiments:
+Although lexical decision tasks are typically low-risk and low-cost experiments, you must first ensure that you have the necessary resources. You need to consider several practical aspects before starting data collection, which are mostly the same as for other low-risk psychological experiments:
 
 - Lab-based study: quiet lab room with a computer. 
 - Online study: web server or hosting service funding. 
