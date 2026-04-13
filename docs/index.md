@@ -41,6 +41,5 @@ In the network, we bring together a group of expert researchers to compile:
 ---
 
 © 2026 The German Word Nerd Network  
-[Visit the GEWONN site](https://gewonn.github.io/)
 ![Importance Rating 2](images/GewonnLogo_small.jpg)
 <img src="images/GewonnLogo_small.jpg" width="50%">
