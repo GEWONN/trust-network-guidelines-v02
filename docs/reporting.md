@@ -95,7 +95,7 @@ Note most issues below are discussed [HERE](https://russpoldrack.substack.com/ar
     - Explicate the criteria on which a decision for one modelling approach or another was made
     - Describe the model structure (e.g., fixed, random effects, distributional parameters, etc.) and the software used to fit it
     - If a model takes a long time to fit, share the output (e.g., share a .rds file for a Bayesian model if it takes more than a couple of hours to fit)
-    - Describe & justify model diagnostics. For example, report model comparisons used to determine which variables were included in the model (both fixed & random effects). If there is a justification for a certain model diagnostic, then report it.	
+    - Describe and justify model diagnostics. For example, report model comparisons used to determine which variables were included in the model (both fixed & random effects). If there is a justification for a certain model diagnostic, then report it.	
 
 ## Data Storage  ![Importance Rating 2](images/rating4.png)
 
@@ -132,7 +132,7 @@ Note most issues below are discussed [HERE](https://russpoldrack.substack.com/ar
 
 - Copyright & licenses
 
-    - Any shared materials should be checked for copyright and license restrictions – e.g., corpora & published texts, font files, image/video / sound stimuli, code.
+    - Any shared materials should be checked for copyright and license restrictions – e.g., corpora and published texts, font files, image/video / sound stimuli, code.
     - We recommend that people look into the [consequences of different open licenses](https://www.psycharchives.org/en/about#rights)
  
 ## Manuscripts / Publications  ![Importance Rating 2](images/rating4.png)
