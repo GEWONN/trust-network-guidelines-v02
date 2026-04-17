@@ -4,7 +4,7 @@ Reporting the research process transparently will allow others to reproduce the 
 
 - Research questions can evolve around novel exploration, phenomena, or existing theories of reading. 
 - Hypothesis: A pre-registration is highly recommended if the study is confirmatory and involves testing a specific hypothesis. Here, one should include the power calculation (to obtain the number of words and number of participants), if applicable, and the statistical model, including the covariates and random effects structure. If highlighted as an exploration model, modifications can be conducted post-hoc but must be transparently reported.
-- Exploratory analyses: If one cannot determine a hypothesis a priori, one should transparently report that the analyses are exploratory
+- Exploratory analyses: If one cannot determine a hypothesis a priori, one should transparently report that the analyses are exploratory.
 
 ## Documentation of contributions and sources  ![Importance Rating 2](images/rating5.png)
 
@@ -20,9 +20,9 @@ Reporting the research process transparently will allow others to reproduce the 
     - Non-word generation process (with code as a supplement, if applicable)
     - Selection criteria for words and non-words (with code as a supplement, if applicable)
     - Specification of how word- and non-word-level characteristics were determined (with code as a supplement) 
-    - A table with all item characteristics as part of the appendix or supplementary materials. 
+    - A table with all item characteristics as part of the appendix or supplementary materials 
     - Participant recruitment procedure, including procedure and justification for determining sample size 
-    - Participant inclusion & exclusion criteria, including justification and definition (e.g., if participants with dyslexia are excluded: Why, and how was this determined?)
+    - Participant inclusion and exclusion criteria, including justification and definition (e.g., if participants with dyslexia are excluded: Why, and how was this determined?)
     - Number of participants, including an a-priori power analysis, if applicable
     - Pilot studies (including raw data) that were used to inform decisions, along with justifications (as appendix or supplementary materials)
     - Experimental setup: e.g., online, lab, field, or similar
@@ -53,7 +53,7 @@ Note that the following are suggestions for what to report, rather than an exhau
 
 - Instructions
 
-    - Information given about the purpose and the procedure of the study.
+    - Information given about the purpose and the procedure of the study
     - Overall duration of testing sessions, including when to expect breaks
 
 - Stimulus parameters:
