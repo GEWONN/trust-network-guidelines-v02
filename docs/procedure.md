@@ -106,9 +106,9 @@ Lexicon projects are, in principle, infrastructure projects that allow the explo
 | Spanish | [Aguasvivas et al., 2018](https://doi.org/10.3389/fpsyg.2018.02156) |
 | Italian | [Amenta et al., 2024](https://doi.org/10.3758/s13428-024-02548-4) |
 
-<sup>*</sup> Note, the size of LP is relatively small and it focuses on children. Find updates on a larger [German Lexicon project HERE](https://gewonn.github.io/trust/glp/) 
+<sup>*</sup> Note, the size of LP is relatively small and it focuses on children. Find updates on a larger [German Lexicon project HERE](https://gewonn.github.io/trust/glp/).
 
-The aim of lexicon projects is to provide reaction time and accuracy estimates for single words and non-words. For such studies, we recommend to maximise the number of experimental items, with several tens of thousands of words, and at least 30 datapoints per item. Due to time constraints, generally each participant responds to only a subset of items. Note that one can use the datasets from lexicon projects to create *virtual* controlled experiments (see [Kuperman 2015](https://doi.org/10.1080/17470218.2014.989865))
+The aim of lexicon projects is to provide reaction time and accuracy estimates for single words and non-words. For such studies, we recommend to maximise the number of experimental items, with several tens of thousands of words, and at least 30 datapoints per item. Due to time constraints, generally each participant responds to only a subset of items. Note that one can use the datasets from lexicon projects to create *virtual* controlled experiments (see [Kuperman 2015](https://doi.org/10.1080/17470218.2014.989865)).
 
 ### Crowd-sourcing lexical decision projects  ![Importance Rating 2](images/rating4.png)
 If the researcher aims to collect large amounts of data, they may consider crowd-sourcing a project. Here, one can use a gamified lexical decision task, in which each participant provides limited data over a very short experiment duration (e.g., 3 minutes). As this approach is more prone to noise, a much larger amount of data needs to be collected, with the recommendation to cover at least 100,000 words and 40 observations per item ([Amenta et al., 2025](https://doi.org/10.3758/s13428-024-02548-4)). 
