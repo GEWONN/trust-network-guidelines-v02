@@ -164,7 +164,7 @@ We recommend automating the process of non-word creation, especially if a large 
 ## How to determine the effect of a specific variable based on lexical decision data  ![Importance Rating 2](images/rating5.png)
 If we are interested in the effect of a given variable, we have several different paradigms available:
 
-- Orthogonal design: Select words and non-words so they vary maximally on the variable of interest while keeping the conditions comparable to all other variables listed above. Although it’s sometimes unavoidable to use such a design, there are some disadvantages:
+- Orthogonal design: Select words and non-words so they vary maximally on the variable of interest while keeping the conditions comparable to all other variables listed above. Although it is sometimes unavoidable to use such a design, there are some disadvantages:
     - It often constrains the number of possible items, leading to small numbers.
     - The selection of items that are not representative of the language or orthography. 
     - Lack of methods to test whether conditions are comparable (i.e., “matched”): Often, people use a t-test to show that, e.g., the two conditions don’t differ in word frequency, but this method has many problems. So we would advise against it (i.e., t-tests cannot be used for equivalence testing, see [Lakens et al., 2018](https://doi.org/10.1177/2515245918770963); also infering the population mean is not what we want here; see [Sassenhagen & Alday, 2016](https://doi.org/10.1016/j.bandl.2016.08.001)). There is a fundamental research gap, and more work is needed. One solution here could be to combine an orthogonal design with regression analyses.  
