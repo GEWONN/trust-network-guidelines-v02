@@ -4,7 +4,7 @@ This section is concerned with the stimulus selection for German lexicon decisio
 One should select words from corpora or – when interested in rarer words – dictionaries (e.g., rare words are underrepresented in corpora; a classical dictionary example is the Duden in German). The field of corpus linguistics provides text resources that offer representative collections of texts, including words from a given language. These resources allow us to determine the word status of a letter string and word characteristics that are important as selection criteria for a specific research question. For example, word frequency is one of the essential variables for lexical decision studies, which describes how often a word occurs in a corpus. The assumption is that frequency reflects the frequency in natural language, although the extent to which this assumption is justified depends on the corpus' size and register ([Brysbaert et al., 2017](https://doi.org/10.1177/0963721417727521)). 
 
 
-### Corpora to Consider  ![Importance Rating 2](images/rating5.png)
+### Corpora to consider  ![Importance Rating 2](images/rating5.png)
 Conducting a lexical decision experiment in German requires relying on existing resources. Many resources are freely available, and others require a university account. Generally, corpora differ in size and register. A small corpus may provide inaccurate frequency estimates, especially for low-frequency words ([Gernsbacher 1984](https://doi.org/10.1037/0096-3445.113.2.256)). Register refers to the population sampled in the corpus. For example, the words in a children's book corpus differ from those in an adult newspaper corpus. Further, we can distinguish between different sources, such as written, spoken, subtitle, or internet corpora, as well as ways to generate specific corpora. Below, we present a non-exhaustive list of German resources recommended by the group's members. To ensure word status, we highly recommend checking multiple corpora and, if available, dictionaries to account for misspellings typically present in corpora. 
 
 
@@ -30,7 +30,7 @@ Texts collected from newspapers and books.
 - [WebCELEX corpus](https://webcelex.ivdnt.org/) (University-Login needed)
     - Easy to use, contains frequency values, lemmatisation, and phonological transcription and syllable-level statistics, based only on newspapers, so not representative 
 - 👧[ChildLex corpus](https://www.dwds.de/d/korpora/childlex)
-    - Separate frequency counts for different ages (between 6 and 12), Contains annotation about word class, lemma, orthographic neighbourhood, bigram frequencies, etc.
+    - Separate frequency counts for different ages (between 6 and 12), contains annotation about word class, lemma, orthographic neighbourhood, bigram frequencies, etc.
 
 
 #### Spoken Corpora  ![Importance Rating 2](images/rating4.png)
@@ -59,7 +59,7 @@ Here are new ideas for creating corpora with generative language models ([Schepe
 
 Words vary in terms of orthographic features (e.g., number of letters, written word form frequency), phonological features (e.g., number of syllables, number of phonemes), morphological features (e.g., morphological complexity, number of morphemes), syntactical features (e.g., syntactic trees) and semantic features (e.g., word class, valence). There are no strict rules for which items to exclude when selecting words/non-words for a study. Manual filtering is not recommended because it’s time-consuming, not reproducible, and error-prone. The filtering process depends on the research question.
 
-#### Exclusion of Taboo Words  ![Importance Rating 2](images/rating4.png)
+#### Exclusion of taboo words  ![Importance Rating 2](images/rating4.png)
 Researchers may choose to exclude taboo words which may be traumatizing for some participants. In other cases, such words can serve to address specific research questions. If used, participants should provide informed consent. Experiments involving them should include measures to prevent adverse outcomes for participants. In general, we advise to consult with an ethics committee. We recommend excluding slurs that some participants may perceive to be personally offensive and including a trigger warning if such words are under investigation. [Sulpizio et al. (2024)](https://doi.org/10.3758/s13428-024-02376-6) provide a full list of German taboo words [HERE](https://osf.io/ecr32/overview). Please note that the list of taboo words in German is quite inclusive, including terms that may not be considered offensive or taboo when used in isolation, e.g., Esel/donkey (sometimes used as an insult).
 
 #### Inflections  ![Importance Rating 2](images/rating4.png)
