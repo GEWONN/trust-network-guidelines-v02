@@ -9,7 +9,7 @@ The TRUST network aims to build a **transparent**, **transferable**, and **susta
 - generalisability  
 - statistical power  
 
-The **TRUST** is funded by the **German Research Foundation (DFG)** and will run under the umbrella of [**German Word Nerd Network (GeWoNN)**](https://gewonn.github.io/).
+The **TRUST** is funded by the **German Research Foundation (DFG)** and will run under the umbrella of the [**German Word Nerd Network (GeWoNN)**](https://gewonn.github.io/).
 
 This guideline page is the result of a consensus-based guideline generation process. We began defining the core guidelines in our first network meeting in 2025. In a second step, we wrote a text document, which was then commented on by the TRUST members. Next, we included the comments and implemented this guideline page. Then, we implemented a survey that included all the points form the text document. In the survey, every member had to rate the importance of each guideline issue (on a scale from 1 to 5, with 1 = low and 5 = high) and could provide additional feedback. 
 
