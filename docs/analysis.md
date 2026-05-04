@@ -5,7 +5,7 @@ Below are some recommended pre-processing options. Please note that they should 
 
 - Excluding long responses
     - When a time-out criterion was used (e.g., the word disappeared after 5000 ms and the response times were therefore set to 5000 ms), it needs to be set to *Not Available* (e.g., *NA* in R).
-    - When no time-out was used, find evidence-based criteria to remove unusually long reaction times.
+    - When no time-out was used, find evidence-based criteria (e.g., previous studies with similar types of items) to remove unusually long reaction times.
     - Note that for different groups (e.g., children), these criteria can differ considerably. 
 
 -  Excluding short responses
@@ -58,7 +58,7 @@ If the main effects and interaction are not present, one should troubleshoot the
 - For a tutorial regarding the random effect specification, see [Bates et al. (2018)](https://doi.org/10.48550/arXiv.1506.04967)
 - Use theoretical knowledge about the different predictors to decide whether the effect of continuous variables should be linear or not (e.g., see [Kliegl et al., 2006](https://doi.org/10.1037/0096-3445.135.1.12))
 - emmeans analysis (e.g., see [Documentation HERE](https://rvlenth.github.io/emmeans/index.html)) is an option for pairwise comparison of the levels of a fixed effect (or interaction) from a (g)lmer model 
-- Central to this approach is a repeated measures design. 
+- Central to this approach is a repeated measures design (i.e., multiple participants responding to the same items). 
 
 *Important*: The standards in the field are ever changing, so it is every researcher's responsibility to stay as up to date as possible.
  
