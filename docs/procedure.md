@@ -56,7 +56,6 @@ A trial generally has the following structure:
     - Typically, participants are instructed to respond by pressing keys on a keyboard, typically with their left and right index finger, e.g., left key: “d”, right key: “k”
     - Alternatively, one can implement a go/no-go task with only button presses for words or non-words, to decrease the variability in response times. 
     - Suppose the aim is to directly compare words and non-words (i.e., the so-called lexicality effect). In that case, we recommend to counterbalance the response keys between participants, such that half of them will press the left key for words and the right key for non-words, and the other half the other way around.
-    - If the number of words and non-words is counterbalanced, it is typical to instruct participants to press the right key for words and the left key for non-words.
     - Alternatives to keyboard responses exist, such as keypads, touchscreens, or mouse clicks. For more information see [Pronk et al., 2020](https://doi.org/10.3758/s13428-019-01321-2), [Bridges et al., 2020](https://doi.org/10.7717/peerj.9414) or [Rodd, 2024](https://doi.org/10.1016/j.jml.2023.104472). 
 
 - Inter-stimulus interval: A break before the next stimulus will reduce interference effects. We recommend a blank screen inter-trial interval of 500 ms between the response and the next fixation cross.
@@ -65,7 +64,7 @@ The letter strings should be presented in a different random order for each part
 
 
 ## Participants  ![Importance Rating 2](images/rating5.png)
-The number of participants should be determined by a power calculation based on the effect size of interest (e.g., see [Brysbaert & Stevens, 2018](https://doi.org/10.5334/joc.10)). Note that there are differences in power considerations when investigating individual differences (e.g., see [Hedge et al. (2018)](https://doi.org/10.3758/s13428-017-0935-1)). Also, the reliability of the measure of interest could be relevant for considerations regarding the number of participants.
+The number of participants should ideally be determined by a power calculation based on the effect size of interest (e.g., see [Brysbaert & Stevens, 2018](https://doi.org/10.5334/joc.10)). Note that there are differences in power considerations when investigating individual differences (e.g., see [Hedge et al. (2018)](https://doi.org/10.3758/s13428-017-0935-1)). Also, the reliability of the measure of interest could be relevant for considerations regarding the number of participants.
 
 There are no fixed rules about inclusion criteria. If the aim is to minimise inter-individual differences and examine differences on the word (or non-word) level, criteria can maximise similarity between participants (e.g., age, level of education). Possible recruitment strategies could be a convenience sample (e.g., undergraduate students), online platforms, or snowball sampling.
 
