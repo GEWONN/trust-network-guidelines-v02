@@ -25,7 +25,7 @@ An important decision is whether one is interested in analysing response times o
 - If accuracy is below 70%, one analyzes accuracy only. 
 - If accuracy is between 70% and 90%, one analyzes both accuracy and response times and seeks to obtain converging evidence; if the results are discrepant, this needs to be addressed in the discussion section. --->
 
-Note that there are model based analysis that allow the simultanous analysis of response times and accuracy at the same time (e.g., drift-diffusion modelling; [Ratcliff, & McKoon, 2008](https://doi.org/10.1162/neco.2008.12-06-420))
+Note that there are model based analyses that allow the simultanous analysis of response times and accuracy at the same time (e.g., drift-diffusion modelling; [Ratcliff, & McKoon, 2008](https://doi.org/10.1162/neco.2008.12-06-420))
 
 ##  Data transformation  ![Importance Rating 2](images/rating5.png)
 Reaction time data generally has an exponentially modified Gaussian (Ex-Gaussian) or shifted log-normal distribution, which looks like a bell-shaped curve with a right skew. As most frequentist analysis methods assume a normal distribution, one can choose between transforming the data or using a model that assumes an Ex-Gaussian or shifted log-normal distribution (see [HERE](https://lindeloev.shinyapps.io/shiny-rt/) for illustrations and more details).
