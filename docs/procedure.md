@@ -86,25 +86,25 @@ Lexical decision tasks are often used to test a single, specific hypothesis. If 
 Lexicon projects are, in principle, infrastructure projects that allow the exploration of new phenomena in extensive datasets with a broad stimulus and participant base. This format is particularly suitable when one wants to provide resources relevant to investigating reading and psycholinguistic processing, for example, in the context of a language or across many languages. Find a list here: 
 
 
-| Language | Reference                                                                           |
-|----------|-------------------------------------------------------------------------------------|
-| Mandarin | [Sze et al., 2014](https://doi.org/10.3758/s13428-013-0355-9)                       |
-| Mandarin | [Tsang et al., 2018](https://doi.org/10.3758/s13428-017-0944-0)                     |
-| Mandarin | [Wang et al., 2025](https://doi.org/10.3758/s13428-025-02701-7)                     |
-| Cantonese | [Tse et al., 2017](https://doi.org/10.3758/s13428-016-0810-5)                       |
-| Cantonese | [Tse et al., 2022](https://doi.org/10.3758/s13428-022-02022-z)                      |
-| Dutch | [Keuleers et al., 2010](https://doi.org/10.3389/fpsyg.2010.00174)                   |
-| British English | [Keuleers et al., 2012](https://doi.org/10.3758/s13428-011-0118-4)                  |
+| Language         | Reference                                                                           |
+|------------------|-------------------------------------------------------------------------------------|
+| Mandarin         | [Sze et al., 2014](https://doi.org/10.3758/s13428-013-0355-9)                       |
+| Mandarin         | [Tsang et al., 2018](https://doi.org/10.3758/s13428-017-0944-0)                     |
+| Mandarin         | [Wang et al., 2025](https://doi.org/10.3758/s13428-025-02701-7)                     |
+| Cantonese        | [Tse et al., 2017](https://doi.org/10.3758/s13428-016-0810-5)                       |
+| Cantonese        | [Tse et al., 2022](https://doi.org/10.3758/s13428-022-02022-z)                      |
+| Dutch            | [Keuleers et al., 2010](https://doi.org/10.3389/fpsyg.2010.00174)                   |
+| British English  | [Keuleers et al., 2012](https://doi.org/10.3758/s13428-011-0118-4)                  |
 | American English | [Balota et al., 2007](https://doi.org/10.3758/BF03193014)                           |
-| French | [Ferrand et al., 2010](https://doi.org/10.3758/brm.42.2.488)                        |
-| German | [Schröter & Schroeder, 2017](https://doi.org/10.3758/s13428-016-0851-9)<sup>*</sup> |
-| Hebrew | [Stein et al., 2024](https://doi.org/10.3758/s13428-024-02502-4)                    |
-| Malay | [Yap et al., 2010](https://doi.org/10.3758/brm.42.4.992)                            |
-| Persian | [Nemati et al., 2022](https://doi.org/10.1007/s10936-022-09863-x)                   |
-| Portuguese | [Soares et al., 2019](https://doi.org/10.1080/23273798.2019.1578395)                |
-| Spanish | [Aguasvivas et al., 2018](https://doi.org/10.3389/fpsyg.2018.02156)                 |
-| Italian | [Amenta et al., 2024](https://doi.org/10.3758/s13428-024-02548-4)                   |
-| Italian | [Chromý et al., 2026](https://doi.org/10.1038/s41597-026-07196-1)                   |
+| French           | [Ferrand et al., 2010](https://doi.org/10.3758/brm.42.2.488)                        |
+| German           | [Schröter & Schroeder, 2017](https://doi.org/10.3758/s13428-016-0851-9)<sup>*</sup> |
+| Hebrew           | [Stein et al., 2024](https://doi.org/10.3758/s13428-024-02502-4)                    |
+| Malay            | [Yap et al., 2010](https://doi.org/10.3758/brm.42.4.992)                            |
+| Persian          | [Nemati et al., 2022](https://doi.org/10.1007/s10936-022-09863-x)                   |
+| Portuguese       | [Soares et al., 2019](https://doi.org/10.1080/23273798.2019.1578395)                |
+| Spanish          | [Aguasvivas et al., 2018](https://doi.org/10.3389/fpsyg.2018.02156)                 |
+| Italian          | [Amenta et al., 2024](https://doi.org/10.3758/s13428-024-02548-4)                   |
+| Czech            | [Chromý et al., 2026](https://doi.org/10.1038/s41597-026-07196-1)                   |
 
 <sup>*</sup> Note, the size of LP is relatively small and it focuses on children. Find updates on a larger [German Lexicon project HERE](https://gewonn.github.io/trust/glp/).
 
