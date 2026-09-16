@@ -86,24 +86,25 @@ Lexical decision tasks are often used to test a single, specific hypothesis. If 
 Lexicon projects are, in principle, infrastructure projects that allow the exploration of new phenomena in extensive datasets with a broad stimulus and participant base. This format is particularly suitable when one wants to provide resources relevant to investigating reading and psycholinguistic processing, for example, in the context of a language or across many languages. Find a list here: 
 
 
-| Language | Reference |
-|----------|-----------|
-| Mandarin | [Sze et al., 2014](https://doi.org/10.3758/s13428-013-0355-9) |
-| Mandarin | [Tsang et al., 2018](https://doi.org/10.3758/s13428-017-0944-0) |
-| Mandarin | [Wang et al., 2025](https://doi.org/10.3758/s13428-025-02701-7) |
-| Cantonese | [Tse et al., 2017](https://doi.org/10.3758/s13428-016-0810-5) |
-| Cantonese | [Tse et al., 2022](https://doi.org/10.3758/s13428-022-02022-z) |
-| Dutch | [Keuleers et al., 2010](https://doi.org/10.3389/fpsyg.2010.00174) |
-| British English | [Keuleers et al., 2012](https://doi.org/10.3758/s13428-011-0118-4) |
-| American English | [Balota et al., 2007](https://doi.org/10.3758/BF03193014) |
-| French | [Ferrand et al., 2010](https://doi.org/10.3758/brm.42.2.488) |
+| Language | Reference                                                                           |
+|----------|-------------------------------------------------------------------------------------|
+| Mandarin | [Sze et al., 2014](https://doi.org/10.3758/s13428-013-0355-9)                       |
+| Mandarin | [Tsang et al., 2018](https://doi.org/10.3758/s13428-017-0944-0)                     |
+| Mandarin | [Wang et al., 2025](https://doi.org/10.3758/s13428-025-02701-7)                     |
+| Cantonese | [Tse et al., 2017](https://doi.org/10.3758/s13428-016-0810-5)                       |
+| Cantonese | [Tse et al., 2022](https://doi.org/10.3758/s13428-022-02022-z)                      |
+| Dutch | [Keuleers et al., 2010](https://doi.org/10.3389/fpsyg.2010.00174)                   |
+| British English | [Keuleers et al., 2012](https://doi.org/10.3758/s13428-011-0118-4)                  |
+| American English | [Balota et al., 2007](https://doi.org/10.3758/BF03193014)                           |
+| French | [Ferrand et al., 2010](https://doi.org/10.3758/brm.42.2.488)                        |
 | German | [Schröter & Schroeder, 2017](https://doi.org/10.3758/s13428-016-0851-9)<sup>*</sup> |
-| Hebrew | [Stein et al., 2024](https://doi.org/10.3758/s13428-024-02502-4) |
-| Malay | [Yap et al., 2010](https://doi.org/10.3758/brm.42.4.992) |
-| Persian | [Nemati et al., 2022](https://doi.org/10.1007/s10936-022-09863-x) |
-| Portuguese | [Soares et al., 2019](https://doi.org/10.1080/23273798.2019.1578395) |
-| Spanish | [Aguasvivas et al., 2018](https://doi.org/10.3389/fpsyg.2018.02156) |
-| Italian | [Amenta et al., 2024](https://doi.org/10.3758/s13428-024-02548-4) |
+| Hebrew | [Stein et al., 2024](https://doi.org/10.3758/s13428-024-02502-4)                    |
+| Malay | [Yap et al., 2010](https://doi.org/10.3758/brm.42.4.992)                            |
+| Persian | [Nemati et al., 2022](https://doi.org/10.1007/s10936-022-09863-x)                   |
+| Portuguese | [Soares et al., 2019](https://doi.org/10.1080/23273798.2019.1578395)                |
+| Spanish | [Aguasvivas et al., 2018](https://doi.org/10.3389/fpsyg.2018.02156)                 |
+| Italian | [Amenta et al., 2024](https://doi.org/10.3758/s13428-024-02548-4)                   |
+| Italian | [Chromý et al., 2026](https://doi.org/10.1038/s41597-026-07196-1)                   |
 
 <sup>*</sup> Note, the size of LP is relatively small and it focuses on children. Find updates on a larger [German Lexicon project HERE](https://gewonn.github.io/trust/glp/).
 
@@ -111,6 +112,7 @@ The aim of lexicon projects is to provide reaction time and accuracy estimates f
 
 ### Crowd-sourcing lexical decision projects  ![Importance Rating 2](images/rating4.png)
 If the researcher aims to collect large amounts of data, they may consider crowd-sourcing a project. Here, one can use a gamified lexical decision task, in which each participant provides limited data over a very short experiment duration (e.g., 3 minutes). As this approach is more prone to noise, a much larger amount of data needs to be collected, with the recommendation to cover at least 100,000 words and 40 observations per item ([Amenta et al., 2025](https://doi.org/10.3758/s13428-024-02548-4)). 
+
 * The study can estimate participants’ vocabulary knowledge at the end to provide an incentive for participation. For the items, one may choose a selection of higher-frequency words known to participants and of words not generally known to all participants. This will provide more informative vocabulary scores for participants. In this case, the recommendation is to minimise the number of non-words, so that the ratio is 3 non-words to 7 words.
 
 
