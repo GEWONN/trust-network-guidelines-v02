@@ -42,5 +42,6 @@ In the network, we bring together a group of expert researchers to compile:
 
 © 2026 The German Word Nerd Network  
 <img src="images/GewonnLogo_small.jpg" width="25%">
-Funded by the DFG
+
+Funded by 
 <img src="images/dfg_logo_schriftzug_blau.jpg" width="25%">
